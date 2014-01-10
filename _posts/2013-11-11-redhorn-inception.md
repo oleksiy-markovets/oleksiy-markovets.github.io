@@ -243,5 +243,5 @@ nice to know that you’ve done your best)
 ## To be continue
 
 Furner we're gonna talk about actual implementation of algorithms mentioned above and some other
-iteresting stuffs.
+interesting stuffs.
 
